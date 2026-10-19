@@ -1,2 +1,11 @@
-figures/
 .venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
